@@ -1,4 +1,4 @@
-# AI Radar Visualization System
+# Ultrasonic Radar System
 
 ## Overview
 A radar visualization system that uses an ultrasonic sensor mounted on a servo motor to detect nearby objects and display them in a Processing-based graphical radar interface.
