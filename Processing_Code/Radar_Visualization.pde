@@ -1,5 +1,5 @@
- import processing.serial.*;
-import java.awt.event.KeyEvent;
+import processing.serial.*;
+import java.awt.event.KeyEvent;mport java.awt.event.KeyEvent;
 import java.io.IOException;
 
 Serial myPort; // defines variables
